@@ -17,6 +17,7 @@ Beyond work, you can find me doing graphic design and playing badminton. Check o
 
 <h2>📁 Pyhton Projects</h2>
 <ul>
+  
 <li>⚡ <a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno Economic Optimization of Green Hydrogen Production System</a></li>
 <li>🌱 <a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
 <li>🔬 <a href="https://github.com/waqassaleem1304/CO2-Emissions-vs.-Carbon-Pricing-Sweden-Case-Study" target="_blank"> CO2 Emissions vs. Carbon Pricing : Sweden Case Study</a></li>
@@ -27,6 +28,7 @@ Beyond work, you can find me doing graphic design and playing badminton. Check o
 
 <h2> 📜 Certifications</h2>
 <ul>
+<li>🔥 <a href="https://github.com/Waqas1304/industrial-high-temperature-heat-pump" target="_blank">Industrial High-Temperature Heat Pumps vs Gas Boilers: What Carbon Price Closes the Gap?</a></li>
 <li>📘 <a href="https://drive.google.com/file/d/1grb7BwEHcUWIwPeZaZXmXh2UKnVt2IOA/view" target="_blank">Engineering for Natural Resources and Environment – DigiCamp (SPINAKER International Intensive Program)</a></li>
 <li>📗 <a href="https://drive.google.com/file/d/1Av6AedQ2SbUfPU7S-soGzTUdvcGGX85U/view" target="_blank">Introduction to the Draft Voluntary ESRS for Non-Listed SMEs – GreenomyAcademy</a></li>
 <li>📙 <a href="https://drive.google.com/file/d/1DC8wHIaJpr2X8nfjctvuGOhOiXB62BVO/view" target="_blank">Management Skills for International Business – Coursera</a></li>

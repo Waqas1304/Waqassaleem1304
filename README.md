@@ -17,6 +17,7 @@ Beyond work, you can find me doing graphic design and playing badminton. Check o
 
 <h2>📁 Pyhton Projects</h2>
 <ul>
+<li>🔥 <a href="https://github.com/Waqas1304/industrial-high-temperature-heat-pump" target="_blank">Industrial High-Temperature Heat Pump: Thermodynamic and Techno-Economic Analysis</a></li>
 <li>⚡ <a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno Economic Optimization of Green Hydrogen Production System</a></li>
 <li>🌱 <a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
 <li>🔬 <a href="https://github.com/waqassaleem1304/CO2-Emissions-vs.-Carbon-Pricing-Sweden-Case-Study" target="_blank"> CO2 Emissions vs. Carbon Pricing : Sweden Case Study</a></li>
